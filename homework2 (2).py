@@ -1,7 +1,7 @@
 '''
 Homework2
-Name:
-github link:
+Name: Jonathan Sedgwick
+github link: https://github.com/jonathansedgwick668/Python/blob/main/homework2%20(2).py
 Note: Remember to use comments for each function.
 doc strings should include what each input consists of, 
 what the expected output is and a description of the function.
