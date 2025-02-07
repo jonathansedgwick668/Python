@@ -1,7 +1,7 @@
 '''
 Best Practices Assignment
 Name: Jonathan Sedgwick
-github link:
+github link: https://github.com/jonathansedgwick668/Python/blob/main/best_practices.py
 '''
 
 
