@@ -13,15 +13,15 @@ def on_button_release(event):
 
 button1 = tk.Button(root, text="Press Me", bg='blue', fg='white')
 
-button1.bind('ButtonPress-1', on_button_press)
+button1.bind('<ButtonPress-1>', on_button_press)
 button1.bind('<ButtonRelease-1>', on_button_release)
 
 button2 = tk.Button(root, text="Press Me", bg='green', fg='white')
-button2.bind('<Button-1>', on_button_press)
+button2.bind('<ButtonPress-1>', on_button_press)
 button2.bind('<ButtonRelease-1>', on_button_release)
 
 button3 = tk.Button(root, text="Press Me", bg='red', fg='white')
-button3.bind('<Button-1>', on_button_press)
+button3.bind('<ButtonPress-1>', on_button_press)
 button3.bind('<ButtonRelease-1>', on_button_release)
 
 label1 = tk.Label(root, text="Blue Button")
