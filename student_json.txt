@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "firstName": "John",
+      "lastName": "Johnson",
+      "grade": 10
+    },
+    {
+      "firstName": "Sammy",
+      "lastName": "Samuelson",
+      "grade": 11
+    },
+    {
+      "firstName": "Becky",
+      "lastName": "Beckonson",
+      "grade": 9
+    }
+  ]
+}
